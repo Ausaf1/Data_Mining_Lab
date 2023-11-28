@@ -1,0 +1,9 @@
+Architect, design, implement, test and deliver highly scalable products
+
+Master our development process, culture and code base, then improve it
+
+Work closely with a team of engineers, product managers, user experience experts and performance engineers to build new features our customers will love, adopt and use while keeping our trusted platform stable and scalable
+
+Develop test strategies, design automation frameworks, write unit/functional tests to drive up code coverage and automation metrics
+
+Analyze, design and develop test cases and implement automated test suites

@@ -1,0 +1,3 @@
+Text Similarity has to determine how the two text documents close to each other in terms of their context or meaning. There are various text similarity metric exist such as Cosine similarity, Euclidean distance and Jaccard Similarity. 
+All these metrics have their own 
+specification to measure the similarity between two queries.
